@@ -1,0 +1,21 @@
+# Python virtual environment
+python/venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files (credentials)
+.env
+
+# Database backup files
+backup/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+
+#python
+*.py
